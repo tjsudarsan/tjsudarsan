@@ -2,10 +2,7 @@
 <p align="center">
 <a style="margin: 0px 15px;" href="mailto:tjsudarsan@gmail.com" target="_blank"><img src="https://lh3.googleusercontent.com/HbVi6-xPzc5uP0YvDNgwb8pfknAlun9aWSTMd8S7XdgoQrSiurbdxWsnnScSGZd2JLQ4Wh2iQvtBCOrai1_6a_ddGniuhqGJ677b" height="20" /></a>
 <a style="margin: 0px 15px;" href="https://linkedin.com/in/tjsudarsan" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="tjsudarsan" height="20" /></a>
-<a style="margin: 0px 15px;" href="https://fb.com/tjsudarsan" target="_blank"><img src="https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=125&h=125" height="20" /></a>
-<a style="margin: 0px 15px;" href="https://instagram.com/tjsudarsan" target="_blank"><img src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png?w=300" height="20" /></a>
 <a style="margin: 0px 15px;" href="https://medium.com/@tjsudarsan" target="_blank"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" height="20" /></a>
-<a style="margin: 0px 5px" href="https://twitter.com/tjsudarsan" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="tjsudarsan" height="20" /></a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/github/followers/tjsudarsan?label=followers&logo=github&style=flat-square">
