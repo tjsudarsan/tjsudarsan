@@ -41,8 +41,8 @@ const myself = {
     email_id: "tjsudarsan@gmail.com",
     working_at: "Brainvalley Software Pvt Ltd",
     work_experience: new Years(3), // 3 yrs of Exp
-    learning: [ Rust ],
-    can_code_with: [ JavaScript, HTML, CSS, Python, PHP ],
+    learning: [ Rust, Python ],
+    can_code_with: [ JavaScript, HTML, CSS, PHP ],
     knows: [
       React, Redux, // Single-Page-App Libraries (Frontend)
       NodeJs, Express, // Back-end Server development frameworks
