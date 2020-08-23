@@ -53,7 +53,7 @@ const myself = {
     ],
     familier_with: [ ...AWS, Firebase ],
     can_work_on: [ ...os ], // Basically Windows, Linux and Mac
-    tools: [ process.env.VISUAL_STUDIO_CODE ], // IDE
+    tools: [ process.env.VISUAL_STUDIO_CODE ], // VS Code IDE
     background_stack: "MERN",
     skills: [
       "Web Development", "Mobile App Development",
