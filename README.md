@@ -22,11 +22,7 @@ import {
   NodeJs, Express 
 } from "@libraries-frameworks";
 
-import { 
-  AWS: { Lambda, API_Gateway, S3, CloudFront, LightSail, EC2 }, 
-  Firebase 
-} from "@cloud";
-
+import { AWS, Firebase } from "@cloud";
 import { MongoDB, DynamoDB } from "@databases";
 import { Docker, CI, CD } from "@dev-ops";
 import { Git } from "version-control-system";
