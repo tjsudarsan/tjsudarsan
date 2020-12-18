@@ -36,7 +36,7 @@ const myself = {
     lives_in: "Chennai, IN 🇮🇳 ",
     email_id: "tjsudarsan@gmail.com",
     working_at: "Brainvalley Software Pvt Ltd",
-    work_experience: new Years(3), // 3 yrs of Exp
+    work_experience: 3, // 3 yrs of Exp
     learning: [ Rust, Python ],
     can_code_with: [ JavaScript, HTML, CSS, PHP ],
     knows: [
